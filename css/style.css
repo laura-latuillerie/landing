@@ -40,12 +40,6 @@ a {
   margin: 0 auto;
 }
 
-.padded-container{
-  width: 80%;
-  margin: 0 auto;
-  padding: 75px;
-}
-
 .blue-bg{
   background-color: #5271FF;
 }
