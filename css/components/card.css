@@ -1,5 +1,6 @@
 .cards{
   justify-content: space-evenly;
+  height: 90vh;
 }
 
 .card{
