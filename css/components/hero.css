@@ -1,0 +1,14 @@
+.hero{
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-desc{
+  padding-right: 5%;
+}
+
+.hero-img{
+  width: 50%;
+  object-fit: contain;
+}

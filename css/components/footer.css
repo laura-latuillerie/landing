@@ -1,0 +1,14 @@
+#footer{
+  padding: 10px 0 20px;
+}
+
+#footer ul{
+  padding: 0;
+}
+
+#footer li{
+  color: white;
+  font-size: 2em;
+  padding: 0 10px;
+  display: inline;
+}
